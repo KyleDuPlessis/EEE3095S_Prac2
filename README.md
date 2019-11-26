@@ -9,6 +9,6 @@ The quest for optimisation can lead one down a long, unending spiral. What is im
 Run program:
 ----
 ```sh
-$ chmod +x Prac1.py
-$ ./Prac1.py
+$ chmod +x Prac2.py
+$ ./Prac2.py
 ```
